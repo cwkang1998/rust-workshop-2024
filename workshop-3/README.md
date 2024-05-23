@@ -25,3 +25,5 @@ May also cover ZkEVM circuits in halo2 ?
 ### Part 4: -
 
 ### Part 5: Analyzing a ZkEVM circuit
+
+### Part 6: Making a library for other applications
